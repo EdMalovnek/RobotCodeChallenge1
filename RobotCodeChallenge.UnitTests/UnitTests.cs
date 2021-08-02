@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 namespace RobotCodeChallenge.UnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTests
     {
         [TestMethod]
         public void TestRegexPatternRight()
