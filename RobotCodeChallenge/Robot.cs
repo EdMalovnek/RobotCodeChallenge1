@@ -7,16 +7,6 @@ namespace RobotCodeChallenge
     {
         static void Main(string[] args)
         {
-            /*
-             * CODE CHALLENGE INSTRUCTIONS:
-             * 
-             * Table must be 5 x 5
-             * PLACE X,Y,F - places the robot
-             * MOVE - moves robot once in direction its facing
-             * LEFT - makes robot rotate 90 degrees to the left
-             * RIGHT - makes robot rotate 90 degrees to the right
-             * REPORT - stops prgram and displays current coordinates
-             */
 
             int posX = 0; //position of Robot on x axis
             int posY = 0; //position of Robot on y axis
